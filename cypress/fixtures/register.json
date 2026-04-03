@@ -1,0 +1,13 @@
+{
+    "name":{
+        "first_name":"John",
+        "last_name":"Doe"
+    },
+
+    "email":"testing22@gmail.com",
+    "phone":"1234567890",
+
+    "login":{
+        "password":"Testing123!!"
+    }
+}
